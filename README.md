@@ -1,2 +1,2 @@
 # resume
-resume using html amd css
+Resume using html amd css
